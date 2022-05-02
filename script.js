@@ -1,7 +1,7 @@
 let musicas = [
-    {titulo:'Guitar solo', artista:'João Tinti', src:'musicas/We Ride! - Reed Mathis.mp3', img:'imagens/rock.png.jpg'},
-    {titulo:'Samba raiz', artista:'Bossa Nova Brasil', src:'musicas/Ella Vater - The Mini Vandals.mp3', img:'imagens/samba.png.jpg'},
-    {titulo:'Música piano', artista:'John Green', src:'musicas/A Brand New Start - TrackTribe.mp3', img:'imagens/piano.png.jpg'}
+    {titulo:'Guitar solo', artista:'Guilherme', src:'Musica\We Ride! - Reed Mathis.mp3', img:'Imagens\rock.png.jpg'},
+    {titulo:'Samba raiz', artista:'Bossa Nova Brasil', src:'Musica\Ella Vater - The Mini Vandals.mp3', img:'Imagens\samba.png.jpg'},
+    {titulo:'Música piano', artista:'John Green', src:'Musica\A Brand New Start - TrackTribe.mp3', img:'Imagens\classica.png.jpg'}
 ];
 
 let musica = document.querySelector('audio');
