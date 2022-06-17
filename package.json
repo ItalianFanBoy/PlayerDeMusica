@@ -1,0 +1,20 @@
+{
+  "name": "playerdemusica",
+  "version": "1.0.0",
+  "description": "Criação de um player de musica usando JS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItalianFanBoy/PlayerDeMusica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItalianFanBoy/PlayerDeMusica/issues"
+  },
+  "homepage": "https://github.com/ItalianFanBoy/PlayerDeMusica#readme"
+}
